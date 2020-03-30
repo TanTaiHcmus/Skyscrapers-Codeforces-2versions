@@ -11,6 +11,7 @@ The company wants the total number of floors in the built skyscrapers to be as l
 Input
 The first line contains a single integer n (1≤n≤500000) — the number of plots. (easy-version n <=1000)
 The second line contains the integers m1,m2,…,mn (1≤mi≤109) — the limit on the number of floors for every possible number of floors for a skyscraper on each plot.
+
 Output
 Print n integers ai — the number of floors in the plan for each skyscraper, such that all requirements are met, and the total number of floors in all skyscrapers is the maximum possible.
 If there are multiple answers possible, print any of them.
